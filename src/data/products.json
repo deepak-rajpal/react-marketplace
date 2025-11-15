@@ -1,0 +1,412 @@
+{
+  "recommended": [
+    {
+      "id": 1,
+      "title": "MacBook Pro 16",
+      "description": "Powerful laptop with M3 Pro chip, 18GB RAM, and stunning Retina display.",
+      "price": "$2,499",
+      "label": "Recommended",
+      "category": "Laptops",
+      "compatibility": "macOS Sonoma or later",
+      "features": [
+        {
+          "icon": "⚡",
+          "title": "M3 Pro Chip",
+          "description": "Next-generation performance with up to 12-core CPU and 18-core GPU"
+        },
+        {
+          "icon": "🖥️",
+          "title": "Liquid Retina XDR",
+          "description": "Stunning 16.2-inch display with 1000 nits brightness"
+        },
+        {
+          "icon": "🔋",
+          "title": "All-Day Battery",
+          "description": "Up to 22 hours of battery life for uninterrupted productivity"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5",
+      "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+      "price": "$399",
+      "label": "Recommended",
+      "category": "Audio",
+      "compatibility": "Bluetooth 5.2 devices",
+      "features": [
+        {
+          "icon": "🎧",
+          "title": "Industry-Leading Noise Cancellation",
+          "description": "Advanced ANC technology blocks out ambient noise"
+        },
+        {
+          "icon": "🔋",
+          "title": "30-Hour Battery",
+          "description": "Extended playback time with quick charging support"
+        },
+        {
+          "icon": "🎵",
+          "title": "Premium Sound Quality",
+          "description": "Hi-Res Audio with LDAC codec support"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "iPad Air",
+      "description": "Versatile tablet with M2 chip, 11-inch display, and Apple Pencil support.",
+      "price": "$599",
+      "label": "Recommended",
+      "category": "Tablets",
+      "compatibility": "iPadOS 16 or later",
+      "features": [
+        {
+          "icon": "⚡",
+          "title": "M2 Chip",
+          "description": "Desktop-class performance in a portable design"
+        },
+        {
+          "icon": "✏️",
+          "title": "Apple Pencil Support",
+          "description": "Precision input for drawing and note-taking"
+        },
+        {
+          "icon": "📱",
+          "title": "11-inch Liquid Retina",
+          "description": "Stunning display with True Tone technology"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy S24 Ultra",
+      "description": "Flagship smartphone with 200MP camera and S Pen integration.",
+      "price": "$1,299",
+      "label": "Recommended",
+      "category": "Smartphones",
+      "compatibility": "Android 14",
+      "features": [
+        {
+          "icon": "📸",
+          "title": "200MP Camera",
+          "description": "Professional-grade photography with AI enhancements"
+        },
+        {
+          "icon": "✏️",
+          "title": "Built-in S Pen",
+          "description": "Precision stylus for notes and creative work"
+        },
+        {
+          "icon": "🔋",
+          "title": "All-Day Battery",
+          "description": "5000mAh battery with fast wireless charging"
+        }
+      ]
+    }
+  ],
+  "popular": [
+    {
+      "id": 5,
+      "title": "Dell XPS 15",
+      "description": "Premium laptop with Intel i9, 32GB RAM, and 4K OLED display.",
+      "price": "$2,199",
+      "category": "Laptops",
+      "compatibility": "Windows 11",
+      "features": [
+        {
+          "icon": "🖥️",
+          "title": "4K OLED Display",
+          "description": "Stunning visuals with 100% DCI-P3 color gamut"
+        },
+        {
+          "icon": "⚡",
+          "title": "Intel i9 Processor",
+          "description": "Powerful 13th Gen performance for demanding tasks"
+        },
+        {
+          "icon": "💾",
+          "title": "32GB RAM",
+          "description": "Seamless multitasking and content creation"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Logitech MX Master 3S",
+      "description": "Ergonomic wireless mouse with customizable buttons and precision scroll.",
+      "price": "$99",
+      "category": "Accessories",
+      "compatibility": "Windows, Mac, Linux",
+      "features": [
+        {
+          "icon": "🖱️",
+          "title": "Ergonomic Design",
+          "description": "Comfortable shape for extended use"
+        },
+        {
+          "icon": "⚙️",
+          "title": "Customizable Buttons",
+          "description": "Program buttons for your workflow"
+        },
+        {
+          "icon": "📊",
+          "title": "8K DPI Sensor",
+          "description": "Precision tracking on any surface"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Keychron K8 Pro",
+      "description": "Mechanical keyboard with hot-swappable switches and RGB backlight.",
+      "price": "$109",
+      "category": "Accessories",
+      "compatibility": "Windows, Mac, Linux",
+      "features": [
+        {
+          "icon": "🔧",
+          "title": "Hot-Swappable",
+          "description": "Change switches without soldering"
+        },
+        {
+          "icon": "💡",
+          "title": "RGB Backlight",
+          "description": "Customizable per-key lighting"
+        },
+        {
+          "icon": "📶",
+          "title": "Wireless Connectivity",
+          "description": "Bluetooth 5.1 with wired option"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Samsung T7 Shield 2TB",
+      "description": "Rugged portable SSD with 1,050MB/s speed and IP65 rating.",
+      "price": "$179",
+      "category": "Storage",
+      "compatibility": "USB 3.2 Gen 2",
+      "features": [
+        {
+          "icon": "🛡️",
+          "title": "IP65 Rated",
+          "description": "Water and dust resistant for outdoor use"
+        },
+        {
+          "icon": "⚡",
+          "title": "1,050MB/s Speed",
+          "description": "Fast file transfers and editing"
+        },
+        {
+          "icon": "🔒",
+          "title": "Hardware Encryption",
+          "description": "AES 256-bit security protection"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Anker PowerCore 20K",
+      "description": "High-capacity portable charger with 20,000mAh and fast charging.",
+      "price": "$59",
+      "category": "Power",
+      "compatibility": "USB-C, USB-A devices",
+      "features": [
+        {
+          "icon": "🔋",
+          "title": "20,000mAh Capacity",
+          "description": "Charge multiple devices multiple times"
+        },
+        {
+          "icon": "⚡",
+          "title": "Fast Charging",
+          "description": "PowerIQ 3.0 with 22.5W output"
+        },
+        {
+          "icon": "🔌",
+          "title": "Dual Ports",
+          "description": "Charge two devices simultaneously"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Apple AirPods Pro 2",
+      "description": "Active noise cancellation with adaptive transparency mode.",
+      "price": "$249",
+      "category": "Audio",
+      "compatibility": "iOS 16 or later",
+      "features": [
+        {
+          "icon": "🎧",
+          "title": "Active Noise Cancellation",
+          "description": "2x more noise cancellation than previous generation"
+        },
+        {
+          "icon": "🔊",
+          "title": "Adaptive Transparency",
+          "description": "Hear important sounds around you"
+        },
+        {
+          "icon": "🔋",
+          "title": "6 Hours Listening",
+          "description": "Up to 30 hours with charging case"
+        }
+      ]
+    }
+  ],
+  "marketing": [
+    {
+      "id": 11,
+      "title": "Adobe Creative Cloud",
+      "description": "Complete suite of creative apps including Photoshop and Premiere Pro.",
+      "price": "$54.99/mo",
+      "category": "Software",
+      "compatibility": "Windows 10+, macOS 11+",
+      "features": [
+        {
+          "icon": "🎨",
+          "title": "20+ Creative Apps",
+          "description": "Access to all Adobe creative tools"
+        },
+        {
+          "icon": "☁️",
+          "title": "100GB Cloud Storage",
+          "description": "Store and sync your projects"
+        },
+        {
+          "icon": "🔄",
+          "title": "Regular Updates",
+          "description": "Always get the latest features"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Microsoft 365 Family",
+      "description": "Office apps, 1TB OneDrive storage, and premium security for 6 users.",
+      "price": "$99.99/year",
+      "category": "Software",
+      "compatibility": "Windows, Mac, iOS, Android",
+      "features": [
+        {
+          "icon": "👥",
+          "title": "6 Users",
+          "description": "Share with up to 6 family members"
+        },
+        {
+          "icon": "💾",
+          "title": "1TB per User",
+          "description": "6TB total OneDrive storage"
+        },
+        {
+          "icon": "🛡️",
+          "title": "Advanced Security",
+          "description": "Ransomware protection and recovery"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Figma Professional",
+      "description": "Collaborative design tool with unlimited projects and version history.",
+      "price": "$12/mo",
+      "category": "Software",
+      "compatibility": "Web, Windows, Mac",
+      "features": [
+        {
+          "icon": "👥",
+          "title": "Unlimited Collaboration",
+          "description": "Work with unlimited team members"
+        },
+        {
+          "icon": "📝",
+          "title": "Unlimited Projects",
+          "description": "No limits on your creativity"
+        },
+        {
+          "icon": "🔄",
+          "title": "Version History",
+          "description": "Never lose your work"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Notion Team",
+      "description": "All-in-one workspace for notes, docs, wikis, and project management.",
+      "price": "$8/mo",
+      "category": "Software",
+      "compatibility": "Web, Windows, Mac, iOS, Android",
+      "features": [
+        {
+          "icon": "📊",
+          "title": "Unlimited Blocks",
+          "description": "No limits on content creation"
+        },
+        {
+          "icon": "👥",
+          "title": "Team Collaboration",
+          "description": "Real-time editing with teammates"
+        },
+        {
+          "icon": "🔗",
+          "title": "Integrations",
+          "description": "Connect with 50+ tools"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "1Password Teams",
+      "description": "Secure password manager with encrypted vaults and sharing features.",
+      "price": "$19.95/mo",
+      "category": "Software",
+      "compatibility": "All platforms",
+      "features": [
+        {
+          "icon": "🔒",
+          "title": "End-to-End Encryption",
+          "description": "Zero-knowledge security model"
+        },
+        {
+          "icon": "👥",
+          "title": "Shared Vaults",
+          "description": "Securely share passwords with team"
+        },
+        {
+          "icon": "📱",
+          "title": "Cross-Platform",
+          "description": "Access everywhere you work"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Grammarly Premium",
+      "description": "Advanced writing assistant with plagiarism checker and tone detection.",
+      "price": "$12/mo",
+      "category": "Software",
+      "compatibility": "Web, Windows, Mac, iOS, Android",
+      "features": [
+        {
+          "icon": "✍️",
+          "title": "Advanced Writing",
+          "description": "Clarity and tone suggestions"
+        },
+        {
+          "icon": "🔍",
+          "title": "Plagiarism Checker",
+          "description": "Check against 16 billion web pages"
+        },
+        {
+          "icon": "🎯",
+          "title": "Tone Detection",
+          "description": "Ensure your message lands right"
+        }
+      ]
+    }
+  ]
+}
